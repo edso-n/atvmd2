@@ -1,6 +1,6 @@
 # Repositório para atividade de Matemática Discreta 2
 
-Nome: Edson Pereira Roldão Filho
+Nome: Edson Pereira Roldão Filho<br>
 Matrícula: 232025730
 
 ### Questão 4
