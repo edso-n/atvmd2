@@ -13,7 +13,7 @@ int mdcComPassos(int a, int b) {
         a = b;
         b = resto;
     }
-    return a;
+    return a;  
 }
 int inversoModular(int a, int m) {
     int m0 = m, t, q;
@@ -82,6 +82,29 @@ int main() {
 
     return 0;
 }
+
+/* ENTRADA:
+Insira H: 5
+Insira G: 4
+Insira Zn: 17
+Insira x: 5
+Insira n1: 11
+*/
+
+/*
+SAÍDA ESPERADA PARA ESSA ENTRADA:
+Algoritmo de Euclides: 4 mod 17 = 4
+Algoritmo de Euclides: 17 mod 4 = 1
+Algoritmo de Euclides: 4 mod 1 = 0
+
+Substituindo, temos que o inverso de 4 em 17 é 13.
+
+Fazendo a multiplicação modular: 5 * 13 mod 17 = 14
+Sendo 13 o inverso de 4.
+Valor final da congruência: 1
+*/
+
+
 
 /*Questão 4
 (V) O algoritmo de Euclides estendido é utilizado para calcular o inverso modular de um número.
