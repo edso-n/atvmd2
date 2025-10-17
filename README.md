@@ -1,5 +1,8 @@
 # Repositório para atividade de Matemática Discreta 2
 
+Nome: Edson Pereira Roldão Filho
+Matrícula: 232025730
+
 ### Questão 4
 (V) O algoritmo de Euclides estendido é utilizado para calcular o inverso modular de um número.<br>
 (F) Se mdc(G, Zn) ≠ 1, o programa ainda consegue encontrar o inverso de G em Zn.<br>
