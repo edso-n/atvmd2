@@ -403,5 +403,10 @@ int main()
     printf("Mensagem Recuperada: %s\n", recuperada);
     printf("---------------------------------------------------\n");
 
+    printf("/n/n");
+
+    printf("Edson Pereira - 232025730\n\n");
+
+
     return 0;
 }
